@@ -1,0 +1,17 @@
+*{
+    margin: 10px;
+}
+
+.form-label{
+    font-size: medium;
+    color: #302e2e;
+}
+
+#exampleInputText{
+    width: 30%;
+    display: block;
+}
+
+button{
+    margin-left: 20px;
+}

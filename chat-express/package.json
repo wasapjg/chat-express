@@ -1,0 +1,25 @@
+{
+  "name": "chat-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasapjg/chat-express.git"
+  },
+  "author": "Federico Ponce de Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasapjg/chat-express/issues"
+  },
+  "homepage": "https://github.com/wasapjg/chat-express#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0"
+  }
+}
